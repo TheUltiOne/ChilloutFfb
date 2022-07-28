@@ -38,14 +38,8 @@
         <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>D:\Assembly-CSharp.dll</HintPath>
         </Reference>
-        <Reference Include="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>D:\Assembly-CSharp-firstpass.dll</HintPath>
-        </Reference>
         <Reference Include="MelonLoader, Version=0.5.4.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\Totally Reliable Delivery Service Beta\MelonLoader\MelonLoader.dll</HintPath>
-        </Reference>
-        <Reference Include="NicoKuroKusagi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\NicoKuroKusagi.dll</HintPath>
         </Reference>
         <Reference Include="OpenGloves_Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>..\OpenGloves-Unity\bin\Release\OpenGloves_Unity.dll</HintPath>
@@ -55,7 +49,7 @@
         <Reference Include="System.Data" />
         <Reference Include="System.Xml" />
         <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>D:\UnityEngine.CoreModule.dll</HintPath>
+          <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
         </Reference>
     </ItemGroup>
     <ItemGroup>
