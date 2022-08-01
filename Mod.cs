@@ -14,7 +14,7 @@ namespace ChilloutFfb
         public override void OnApplicationStart()
         {
             base.OnApplicationStart();
-            Log = new Log("ChilloutVR Mods", "ffb.log");
+            Log = new Log("ChilloutVR Modding", "ffb.log");
         }
 
         public override void OnApplicationQuit()
