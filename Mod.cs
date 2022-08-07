@@ -1,13 +1,11 @@
-﻿using System;
-using MelonLoader;
-using OpenGloves_Unity.Data;
+﻿using OpenGloves_Unity.Data;
 using OpenGloves_Unity.Logging;
 using OpenGloves_Unity.Shared;
 using Harmony = HarmonyLib.Harmony;
 
 namespace ChilloutFfb
 {
-    public class Mod : MelonMod
+    public class Mod
     {
         public static Log Log { get; set; }
 

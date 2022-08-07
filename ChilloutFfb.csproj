@@ -33,14 +33,14 @@
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
     <ItemGroup>
-        <Reference Include="0Harmony, Version=2.9.0.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\Totally Reliable Delivery Service Beta\MelonLoader\0Harmony.dll</HintPath>
+        <Reference Include="0Harmony, Version=2.10.0.0, Culture=neutral, PublicKeyToken=null">
+          <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\ChilloutVR\BepInEx\core\0Harmony.dll</HintPath>
         </Reference>
         <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\Assembly-CSharp.dll</HintPath>
         </Reference>
-        <Reference Include="MelonLoader, Version=0.5.4.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\Totally Reliable Delivery Service Beta\MelonLoader\MelonLoader.dll</HintPath>
+        <Reference Include="BepInEx.Unity, Version=6.0.0.574, Culture=neutral, PublicKeyToken=null">
+          <HintPath>D:\Rayane\Jeux\Steam\steamapps\common\ChilloutVR\BepInEx\core\BepInEx.Unity.dll</HintPath>
         </Reference>
         <Reference Include="OpenGloves_Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>..\OpenGloves-Unity\bin\Release\OpenGloves_Unity.dll</HintPath>
